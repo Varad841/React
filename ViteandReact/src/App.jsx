@@ -1,7 +1,10 @@
-function App() { 
+import Chai from "./chai"
 
+function App() { 
   return (
-    <h1>Chai aur react with hello world</h1>
+    <>
+       <Chai/>
+    </>
       
   )
 }
